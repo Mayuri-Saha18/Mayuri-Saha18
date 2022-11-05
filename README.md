@@ -46,5 +46,5 @@ Here are some ideas to get you started:
   <br /><br />
 
 <p align="center">
-  <img width="250" height="200" src="https://math.sun.ac.za/prodinger/thanks.gif">
+  <img width="300" height="200" src="https://static.wixstatic.com/media/c12e43_15bda2708552498cb7b825a015ebda0c~mv2.gif">
 </p>
