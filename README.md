@@ -15,6 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mayuri Saha</h1>
+A focused Full Stack Web Developer, passionate about implementing technical knowledge in real time projects.</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmins28&label=Profile%20views&color=0e75b6&style=flat" alt="nazmins28" /> </p>
+
+<img align="right" alt="coding image" width="30%" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76117725eb09466df8a2245fcc11e918b1f101a94fec&rid=giphy.gif&ct=g" >
+
+
+- 🌱 I’m currently learning **Mern Stack**
+
+- 👨‍💻 All of my projects are available at [https://github.com/NazminS28](https://github.com/NazminS28)
+
+- 💬 Ask me about **Html, CSS, Javascript, React**
+
+- 📫 How to reach me **shaikhnazmin1328@gmail.com**
+
+- 📄 Check [Resume](https://drive.google.com/file/d/19nohiQscevjXReQXHWW_dPxdGbfxLvFA/view?usp=sharing)
+
+- 📄 Know more about me and my work [Portfolio](https://NazminS28.github.io/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuri-saha18&label=Profile%20views&color=0e75b6&style=flat" alt="mayuri-saha18" /> </p>
 
