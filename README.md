@@ -76,14 +76,14 @@ Here are some ideas to get you started:
 
 <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<br /><br />
 <h2 align="center">📊 My Github Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-saha18&show_icons=true&locale=en&layout=compact&theme=radical" alt="mayuri-saha18" /></p>
+<p><img width="45.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-saha18&show_icons=true&locale=en&layout=compact&theme=radical" alt="mayuri-saha18" /><img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuri-saha18&theme=radical" alt="mayuri-saha18" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayuri-saha18&theme=radical" alt="mayuri-saha18" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuri-saha18&theme=radical" alt="mayuri-saha18" /></p>
-
   <br /><br />
-
+  
+  <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=mayuri-saha18&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
+ 
 <p align="center">
   <img width="300" height="200" src="https://static.wixstatic.com/media/c12e43_15bda2708552498cb7b825a015ebda0c~mv2.gif">
 </p>
