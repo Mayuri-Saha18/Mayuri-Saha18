@@ -79,7 +79,8 @@ Here are some ideas to get you started:
 <h2 align="center">📊 My Github Stats</h2>
 <p><img width="45.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayuri-saha18&show_icons=true&locale=en&layout=compact&theme=radical" alt="mayuri-saha18" /><img width="45.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuri-saha18&theme=radical" alt="mayuri-saha18" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayuri-saha18&theme=radical" alt="mayuri-saha18" /></p>
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=mayuri-saha18&theme=radical" alt="mayuri-saha18" /></p>
+
   <br /><br />
   
   <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=mayuri-saha18&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
