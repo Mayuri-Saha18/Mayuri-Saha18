@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <h1 align="center">Hi 👋, I'm Mayuri Saha</h1> -->
+<h1 align="center">Hi 👋, I'm Mayuri Saha</h1>
 <!-- Github Banner Section-->
-[![Mayuri's GitHub Banner](./images/Autumn newsletter.png)](https://mayuri-saha18.github.io/)
 
 <h2>A focused Full Stack Web Developer, passionate about implementing technical knowledge in real time projects.</h2>
 
