@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mayuri Saha</h1>
+<!-- Github Banner Section-->
+
 <h2>A focused Full Stack Web Developer, passionate about implementing technical knowledge in real time projects.</h2>
 
 <br/>
