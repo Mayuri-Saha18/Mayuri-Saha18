@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayuri-Saha18](https://github.com/Mayuri-Saha18)
 
+- 💻 Know more about me <a href="https://mayuri-saha18.github.io/" target="_blank" >Portfolio</a>
+
 - 💬 Ask me about **Html, CSS, Javascript, React**
 
 - 📫 How to reach me **sahamayuri18oct@gmail.com**
