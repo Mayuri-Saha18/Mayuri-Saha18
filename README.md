@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 <h2>A focused Full Stack Web Developer, passionate about implementing technical knowledge in real time projects.</h2>
 
-<br/>
 <h2 align='left'> 🙋‍♂️ About Me</h2>
 <img align="right" alt="coding image" width="30%" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76117725eb09466df8a2245fcc11e918b1f101a94fec&rid=giphy.gif&ct=g" >
 
