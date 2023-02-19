@@ -106,6 +106,6 @@ Here are some ideas to get you started:
     src="https://github-readme-activity-graph.cyclic.app/graph?username=Mayuri-Saha18&theme=dracula" alt="mayuri" /></a>
 </p>
  
-<p align="center">
+<!-- <p align="center">
   <img width="300" height="200" src="https://static.wixstatic.com/media/c12e43_15bda2708552498cb7b825a015ebda0c~mv2.gif">
-</p>
+</p> -->
