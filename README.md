@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayuri-Saha18](https://github.com/Mayuri-Saha18)
 
-- 👨‍🎓 Check out my <a href="https://drive.google.com/file/d/1QO7kS7RqGMhzB0bLTz6T1ityNccnMhBt/view?usp=sharing" target="_blank" >Resume Here</a>
+- 👨‍🎓 Check out my <a href="https://drive.google.com/file/d/1O99Vu1lAsiSiZm4tjDWPvFeTD31unySW/view" target="_blank" >Resume Here</a>
 
 - 💻 Know more about me <a href="https://mayuri-saha18.github.io/" target="_blank" >Portfolio</a>
 
