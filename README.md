@@ -111,14 +111,13 @@ Here are some ideas to get you started:
  <p width="50%" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Mayuri-Saha18&theme=dracula" alt="mayuri" /></a>
 </p>
-<!-- <h2 align="center">📈 My Github Graph</h2>
+<h2 align="center">📈 My Github Graph</h2>
 <p align="center">
  
 
- ![](./profile-3d-contrib/profile-night-green.svg)
+ ![](./profile-3d-contrib/profile-south-season.svg)
 
 </p>
- -->
  <p align="center">
   <img width="300" height="200" src="https://static.wixstatic.com/media/c12e43_15bda2708552498cb7b825a015ebda0c~mv2.gif">
 </p>
