@@ -109,7 +109,7 @@ Here are some ideas to get you started:
   <br /><br />
  <!--[![mayurisaha github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mayuri-Saha18&theme=dracula)](https://github.com/Mayuri-Saha18)-->
  <p width="50%" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=Mayuri-Saha18&theme=dracula" alt="mayuri" /></a>
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mayuri-Saha18&theme=dracula" alt="mayuri" /></a>
 </p>
  <p align="center">
   <img width="300" height="200" src="https://static.wixstatic.com/media/c12e43_15bda2708552498cb7b825a015ebda0c~mv2.gif">
