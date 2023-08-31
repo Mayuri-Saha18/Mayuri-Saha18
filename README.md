@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 - 💻 Know more about me <a href="https://mayuri-saha18.github.io/" target="_blank" >Portfolio</a>
 
+- 🔗 Connect with me <a href="https://linktr.ee/mayuri_saha" target="_blank" >Link Tree</a>
+
 - 💬 Ask me about **Html, CSS, Javascript, React**
 
 - 📫 How to reach me **sahamayuri18oct@gmail.com**
