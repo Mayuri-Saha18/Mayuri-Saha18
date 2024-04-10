@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h2>A focused Full Stack Web Developer, passionate about implementing technical knowledge in real time projects.</h2>
 
 <h2 align='left'> 🙋‍♂️ About Me</h2>
-<img align="right" alt="coding image" width="40%" src="https://camo.githubusercontent.com/d77f5b72872906d97a0c5fa4b1ac8368240c1cdef7b5bd13e7aeaa619ad9dc0e/68747470733a2f2f7374617469632e6576656e7473636170652e6c6976652f636d6e2f696d672f636f72702f656e676167655f6275696c645f67726f772e706e67" >
+<img align="right" alt="coding image" width="40%" src="https://img.freepik.com/premium-vector/software-development-programming-workplace-programmer-coder-laptop-coffee-books_530733-2209.jpg" >
 
 
 - 🔭 I’m currently Student of **[Masai School](https://www.masaischool.com/)**
