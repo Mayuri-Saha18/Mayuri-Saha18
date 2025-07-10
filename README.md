@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 <img align="right" alt="coding image" width="40%" src="https://img.freepik.com/premium-vector/software-development-programming-workplace-programmer-coder-laptop-coffee-books_530733-2209.jpg" >
 
 
-- 🔭 I’m currently Student of **[Masai School](https://www.masaischool.com/)**
+- 🔭 I’m currently working at **[Yupcha Softwares](https://www.linkedin.com/company/yupcha-softwares/)**
 
-- 🌱 Currently learning **Mern Stack**
+- 🌱 Learned Full Stack Web Development from **[Masai School](https://www.masaischool.com/)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayuri-Saha18](https://github.com/Mayuri-Saha18)
 
@@ -64,18 +64,20 @@ Here are some ideas to get you started:
 </div>
 <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align='center'> :pencil: Technical Skills</h2>
-<div align='center' style="display: flex;">
+<div align='center' style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-ffff66?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
- 
-  
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra_UI-4ED1C5?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" />
 </div>
+
 <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
